@@ -33,4 +33,4 @@ build/
 .vscode/
 
 #application.proprerties
-java/com/csince90/wowkeviaggio/resources/application.properties
+src/main/resources/application.properties
