@@ -6,6 +6,11 @@
 L’applicazione consente la gestione di destinazioni, utenti e prenotazioni, con logica business lato server e persistenza su database relazionale.
 
 ---
+## Diagramma E-R
+![Diagramma E-R](./TravelDiagramER.jpg)
+
+
+
 
 ## 🧩 Tecnologie utilizzate
 
@@ -35,3 +40,10 @@ L’applicazione consente la gestione di destinazioni, utenti e prenotazioni, co
 git clone https://github.com/CSINCE90/wowkeviaggio.git
 cd wowkeviaggio
 
+
+
+👨‍💻 Autore
+
+Francesco Chifari
+LinkedIn: https://www.linkedin.com/in/francesco-chifari-386550112/
+GitHub: CSINCE90
